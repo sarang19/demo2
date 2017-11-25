@@ -6,4 +6,4 @@ i am going to add my projects to git soon.
 new thing , on a new branch
 
 #HEADING
-i HOPE THIS ISNT MUCH OF A PROBLEM
+i hope its working
